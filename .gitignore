@@ -1,0 +1,10 @@
+node_modules
+bin
+obj
+cross-platform-desktop.app
+dist/win-unpacked
+dist/latest.yml
+.DS_Store
+*.exe
+*.dmg
+*.zip
